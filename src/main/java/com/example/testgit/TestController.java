@@ -38,4 +38,10 @@ public class TestController {
 	private void testCheryPick2(){
 		System.out.println("222");
 	}
+
+
+	private void testCheryPick1(){
+		System.out.println("11111");
+	}
+
 }
