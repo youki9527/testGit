@@ -9,4 +9,10 @@ package com.example.testgit;
 public class TestController {
 
 	public static final String code="hhhh";
+
+
+	private void testA(){
+		System.out.println("222222");
+	}
+
 }
