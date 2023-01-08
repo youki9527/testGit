@@ -34,4 +34,8 @@ public class TestController {
 	private void testE(){
 		System.out.println("22254555");
 	}
+
+	private void testCheryPick2(){
+		System.out.println("222");
+	}
 }
