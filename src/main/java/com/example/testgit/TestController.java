@@ -15,4 +15,10 @@ public class TestController {
 		System.out.println("222222");
 	}
 
+
+
+	private void testB(){
+		System.out.println("222222");
+	}
+
 }
