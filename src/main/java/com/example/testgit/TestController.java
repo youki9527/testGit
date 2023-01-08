@@ -30,4 +30,8 @@ public class TestController {
 	private void testC(){
 		System.out.println("222222");
 	}
+
+	private void testE(){
+		System.out.println("22254555");
+	}
 }
