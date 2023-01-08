@@ -25,4 +25,9 @@ public class TestController {
 		System.out.println("222222");
 	}
 
+
+
+	private void testC(){
+		System.out.println("222222");
+	}
 }
