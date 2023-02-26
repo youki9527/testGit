@@ -13,7 +13,7 @@ public class TestGitApplication {
 	private void test02(){
 		System.out.println("123");
 		System.out.println("1111");
-		System.out.println("222211113333");
+		System.out.println("22222");
 	}
 
 }
